@@ -129,6 +129,14 @@
     
      }
      
+     #p{
+       z-index:1;
+       background-color:white;
+       padding:50px 226px;
+       position: absolute;
+       bottom:245px;
+       left:325px;
+     }
     
     #side{
         position: relative;
